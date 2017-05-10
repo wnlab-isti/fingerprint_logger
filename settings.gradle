@@ -1,0 +1,1 @@
+include ':mobile', ':wear', ':android-beacon-library-2.9.2'
