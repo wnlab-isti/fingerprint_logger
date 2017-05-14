@@ -56,6 +56,9 @@ import java.util.Collection;
 import java.util.Date;
 import java.util.Locale;
 
+/**
+ * @author <a href="mailto:davide.larosa@isti.cnr.it">Davide La Rosa</a>
+ */
 public class MyActivity extends Activity implements View.OnClickListener, BeaconConsumer {
 
     private static final int SAMPLING_INTERVAL = 100;                 // sampling interval [ms]

@@ -57,6 +57,9 @@ import java.util.Date;
 import java.util.List;
 import java.util.Locale;
 
+/**
+ * @author <a href="mailto:davide.larosa@isti.cnr.it">Davide La Rosa</a>
+ */
 public class MyActivity extends ActionBarActivity implements BeaconConsumer {
 
     private static final int SAMPLING_INTERVAL = 100;			// sampling interval [ms]
